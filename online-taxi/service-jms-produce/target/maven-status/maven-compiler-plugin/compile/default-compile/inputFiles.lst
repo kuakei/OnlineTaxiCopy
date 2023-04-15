@@ -1,0 +1,6 @@
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\component\ConsumerQueue.java
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\controller\ProducerController.java
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\ServiceJmsProduceApplication.java
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\config\ActiveMQConfig.java
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\component\ConsumerTopic.java
+Z:\GITRepo\OnlineTaxiCopy\online-taxi\service-jms-produce\src\main\java\com\online\taxi\jms\produce\service\ProduceService.java

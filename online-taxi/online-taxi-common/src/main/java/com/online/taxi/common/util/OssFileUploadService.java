@@ -1,9 +1,8 @@
-package com.online.taxi.util;
+package com.online.taxi.common.util;
 
 import com.aliyun.oss.OSSClient;
 import com.aliyun.oss.model.ObjectMetadata;
-import com.online.taxi.dto.phone.response.OssBaseResponse;
-
+import com.online.taxi.common.dto.phone.response.OssBaseResponse;
 import net.sf.json.JSONObject;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;

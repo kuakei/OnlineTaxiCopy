@@ -1,8 +1,6 @@
 package com.online.taxi.common.dto;
 
-import com.online.taxi.common.validation.PhoneNumberValidation;
 import lombok.Data;
-import org.springframework.validation.annotation.Validated;
 
 import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Pattern;

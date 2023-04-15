@@ -1,7 +1,7 @@
 package com.online.taxi.dao;
 
-import com.online.taxi.dto.valuation.discount.DiscountCondition;
-import com.online.taxi.dto.valuation.discount.DiscountPrice;
+import com.online.taxi.common.dto.valuation.discount.DiscountCondition;
+import com.online.taxi.common.dto.valuation.discount.DiscountPrice;
 import com.online.taxi.mapper.DynamicDiscountRuleMapper;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;

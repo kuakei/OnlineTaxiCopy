@@ -1,8 +1,7 @@
-package com.online.taxi.aspect;
+package com.online.taxi.common.aspect;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.online.taxi.dto.government.SupervisionData;
-
+import com.online.taxi.common.dto.government.SupervisionData;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

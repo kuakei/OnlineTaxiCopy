@@ -2,8 +2,8 @@ package com.online.taxi.dao.cache;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.online.taxi.constatnt.OrderRuleNames;
-import com.online.taxi.dto.valuation.charging.Rule;
+import com.online.taxi.common.constatnt.OrderRuleNames;
+import com.online.taxi.common.dto.valuation.charging.Rule;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

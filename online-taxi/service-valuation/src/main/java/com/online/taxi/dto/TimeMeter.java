@@ -1,6 +1,6 @@
 package com.online.taxi.dto;
 
-import com.online.taxi.constatnt.ChargingCategoryEnum;
+import com.online.taxi.common.constatnt.ChargingCategoryEnum;
 import com.online.taxi.task.ValuationRequestTask;
 import com.online.taxi.util.TimeSlice;
 import lombok.Data;

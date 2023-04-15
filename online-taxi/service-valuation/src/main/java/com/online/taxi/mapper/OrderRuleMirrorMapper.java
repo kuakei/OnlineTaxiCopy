@@ -1,6 +1,6 @@
 package com.online.taxi.mapper;
 
-import com.online.taxi.entity.OrderRuleMirror;
+import com.online.taxi.common.entity.OrderRuleMirror;
 
 public interface OrderRuleMirrorMapper {
     /**

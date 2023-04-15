@@ -1,8 +1,7 @@
-package com.online.taxi.util;
+package com.online.taxi.common.util;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.online.taxi.dto.ResponseResult;
-
+import com.online.taxi.common.dto.ResponseResult;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.lang.Nullable;

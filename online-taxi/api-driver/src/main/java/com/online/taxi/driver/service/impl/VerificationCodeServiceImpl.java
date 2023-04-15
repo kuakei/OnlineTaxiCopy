@@ -4,9 +4,7 @@ import com.online.taxi.common.constant.IdentityConstant;
 import net.sf.json.JSONObject;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpEntity;
-import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
-import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
@@ -14,7 +12,6 @@ import com.online.taxi.common.dto.ResponseResult;
 import com.online.taxi.common.dto.verificationcode.VerifyCodeResponse;
 import com.online.taxi.driver.service.VerificationCodeService;
 
-import javax.annotation.Resource;
 /**
  * @author oi
  */

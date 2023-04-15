@@ -1,0 +1,6 @@
+com\online\taxi\jms\produce\component\ConsumerTopic.class
+com\online\taxi\jms\produce\controller\ProducerController.class
+com\online\taxi\jms\produce\config\ActiveMQConfig.class
+com\online\taxi\jms\produce\service\ProduceService.class
+com\online\taxi\jms\produce\component\ConsumerQueue.class
+com\online\taxi\jms\produce\ServiceJmsProduceApplication.class

@@ -1,0 +1,4 @@
+com\online\taxi\jms\consumer\component\ConsumerQueue.class
+com\online\taxi\jms\consumer\ServiceJmsConsumerApplication.class
+com\online\taxi\jms\consumer\component\ConsumerTopic.class
+com\online\taxi\jms\consumer\config\ActiveMQConfig.class

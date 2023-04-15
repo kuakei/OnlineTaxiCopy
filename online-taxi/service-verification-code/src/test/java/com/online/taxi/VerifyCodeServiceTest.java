@@ -2,18 +2,15 @@ package com.online.taxi;
 
 import com.online.taxi.common.dto.ResponseResult;
 import com.online.taxi.common.dto.verificationcode.VerifyCodeResponse;
-import com.online.taxi.controller.VerifyCodeController;
 import com.online.taxi.service.VerifyCodeService;
 import junit.framework.TestCase;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
-import org.springframework.transaction.annotation.Transactional;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

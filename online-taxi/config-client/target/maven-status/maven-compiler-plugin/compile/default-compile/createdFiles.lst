@@ -1,0 +1,14 @@
+com\online\taxi\service\ConfigService.class
+com\online\taxi\controller\ConfigController.class
+com\online\taxi\event\CustomRemoteApplicationEvent.class
+com\online\taxi\controller\WebhookController.class
+com\online\taxi\event\PublishController.class
+com\online\taxi\service\impl\ConfigServiceImpl.class
+com\online\taxi\service\VerifyCodeService.class
+com\online\taxi\component\GitConfig.class
+com\online\taxi\event\BusConfiguration.class
+com\online\taxi\constant\VerifyCodeConstant.class
+com\online\taxi\controller\ConfigController2.class
+com\online\taxi\service\impl\VerifyCodeServiceImpl.class
+com\online\taxi\VerificationCodeApplication.class
+com\online\taxi\request\CodeVerifyRequest.class

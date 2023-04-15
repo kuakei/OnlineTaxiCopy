@@ -2,7 +2,7 @@ package com.online.taxi.dao.cache;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.online.taxi.constatnt.OrderRuleNames;
+import com.online.taxi.common.constatnt.OrderRuleNames;
 import com.online.taxi.dto.PriceMeter;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;

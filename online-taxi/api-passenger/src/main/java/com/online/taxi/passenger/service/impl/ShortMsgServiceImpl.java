@@ -14,7 +14,6 @@ import com.online.taxi.passenger.feign.SmsClient;
 import com.online.taxi.passenger.service.ShortMsgService;
 
 import net.sf.json.JSONObject;
-import org.springframework.transaction.annotation.Transactional;
 
 /**
  * @author oi

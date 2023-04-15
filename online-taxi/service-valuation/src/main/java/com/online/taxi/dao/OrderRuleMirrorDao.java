@@ -1,6 +1,6 @@
 package com.online.taxi.dao;
 
-import com.online.taxi.entity.OrderRuleMirror;
+import com.online.taxi.common.entity.OrderRuleMirror;
 import com.online.taxi.mapper.OrderRuleMirrorMapper;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;

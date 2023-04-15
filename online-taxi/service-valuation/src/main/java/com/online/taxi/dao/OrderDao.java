@@ -1,6 +1,6 @@
 package com.online.taxi.dao;
 
-import com.online.taxi.entity.Order;
+import com.online.taxi.common.entity.Order;
 import com.online.taxi.mapper.OrderMapper;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;

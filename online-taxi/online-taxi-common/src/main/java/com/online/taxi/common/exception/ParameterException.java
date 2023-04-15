@@ -1,4 +1,4 @@
-package com.online.taxi.exception;
+package com.online.taxi.common.exception;
 
 /**
  * 参数异常
